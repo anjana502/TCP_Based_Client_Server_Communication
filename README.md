@@ -1,2 +1,1 @@
-Understood the working of communication low-level network components using Python’s socket library, implementing a TCP-based client–server model to understand transport-layer protocols, connection management, 
-and data exchange across networks.
+Understood the principles of communication among low-level network components using Python’s socket library, implementing a TCP-based client–server model to gain knowledge of transport-layer protocols, real-time connection management, and data exchange between server and multiple client objects through multi-threading.
